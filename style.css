@@ -1,0 +1,24 @@
+/*
+Theme Name: Le pays magazine
+Author: FRANCINE Kendrick
+Description: Template Wordpress ecf 4
+Version: 1.0
+*/
+
+body {
+    background-color: #8f9a9e;
+  }
+  
+  .nav-item a {
+    margin: 0 1rem;
+    color: #0c0c0c;
+    text-decoration: none;
+  }
+  .nav-item a:hover {
+    color: #8c8c8c;
+    text-decoration: underline;
+  }
+  
+  footer .social-network i {
+    font-size: xxx-large;
+  }
