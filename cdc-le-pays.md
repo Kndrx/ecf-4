@@ -39,13 +39,13 @@ Le site internet qui sera développer doit être accessible sur smarthphone et s
 - • Une page « Evènements à venir »
 
 
-![Screenshot](../maquettes/accueil.png) 
+![Screenshot](/maquettes/Accueil.png) 
 
-![Screenshot](../maquettes/actualites.png)
+![Screenshot](/maquettes/actualites.png)
 
-![Screenshot](../maquettes/categories.png)
+![Screenshot](/maquettes/categories.png)
 
-![Screenshot](../maquettes/a_venir.png)
+![Screenshot](/maquettes/a_venir.png)
 
 ## C. SPECIFICITES ET LIVRABLES :
 
