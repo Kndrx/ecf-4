@@ -1,151 +1,92 @@
-SOMMAIRE :
+# Le Pays - Cahier des charges
 
-A.	Présentation de l’entreprise :
-A.	1. Les objectifs du site 
-A.	2. Les cibles 
-A.	3. Les objectifs quantitatifs 
-A.	4. Périmètre du projet 
-B.	Graphisme et ergonomie
-B.    1. La charte graphique
-B.    2. Wireframe et Maquettage
-C.    Spécificités et livrables 
-C.    1. Le contenu de votre site 
-C.    2. Contraintes techniques 
-C.    3. Les livrables
-C.    4. Le Planning
+-   A.	1. Les objectifs du site
+    -   A.	2. Les cibles
 
-A. PRESENTATION DE L’ENTREPRISE :
+-   B.	Graphisme et ergonomie
+    -   B.  1. Wireframe et Maquettage
 
-Présentation de l’entreprise :
-•	L’activité principale
-•	Les services ou produits vendus
-•	Le nombre de salariés
-•	Le chiffre d’affaires
-•	Les principaux axes de développement
-•	Les principaux concurrents
+-   C.  Spécificités et livrables
+    -   C.  1. Le contenu de votre site 
+    -   C.  2. Contraintes techniques 
+    -   C.  3. Le Planning
 
+## A. 1. LES OBJECTIFS DU SITE :
 
-Analyse de l’existant :
-•	Le langage de programmation utilisée actuellement
-•	La version du langage
-•	L’hébergement utilisé
-•	Les statistiques actuelles (trafic mensuel, taux de rebond, taux de conversion)
-•	Le nombre de pages
-•	Le type de site (entreprise, e-commerce, plateforme, etc…)
-•	Les moyens de paiement utilisé
-•	Les plugins utilisés
-•	Les documents concernant la charte graphique existante
-•	Le nombre de personnes engagées sur ce projet ?
-………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… …………………………………………………………………………………………
-A. 1. LES OBJECTIFS DU SITE :
+<p> Le journal “Le Pays” est une entreprise d'information releyant les actualités/nouvelles concernant le monde culturelle et sportif. Ils souhaitent se moderniser en créant un site internet pour relayer les informations de leur version papier.</p>
 
-Détaillez, le ou les objectifs attendus avec ce projet de site internet. Vous pouvez découper vos objectifs en 2 parties : quantitatifs et qualitatifs.
+## A. 2. LES CIBLES :
+<p>
+Le journal à pour réputation de relayer les informations concernant le monde sportif et culturel du pays, c'est pourquoi ils souhaitent cibler leur public.
+Le site internet qui sera développer doit être accessible sur smarthphone et support mobile, car ils veulent atteindre des lecteurs plus jeunes et familiarisés avec la technologie.
+</p>
 
-Exemple : Améliorer le taux de conversion actuel, présenter notre entreprise, améliorer la visibilité du site existant, etc  ……………………………………..… 
-………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… …………………………………………………………………………………………………………………………………………………………………………………… ………………………………………………………………………………………… …………………………………………………………………………………………
+## B. GRAPHISME ET ERGONOMIE :
+
+- Le site doit être facile de navigation, et doit faciliter la lecture des articles auprès des lecteurs (contraste des couleurs, taille de la police et choix de la police).
 
 
-A. 2. LES CIBLES :
+## B. 1. WIREFRAME ET MAQUETTAGE :
 
-Décrivez le profil des clients de votre entreprise et celui des visiteurs de votre site internet. (Pour vous aider : https://www.codeur.com/blog/outils-creer-buyers-persona/ )
+<p>Les maquettes contiennent :</p>
 
-Exemple : Nous visons un public professionnel, pour développer notre activité en B2B. Le profil type de nos prospects est : homme, 39 ans, chef de service marketing …...…………………………………………………………………………….…………………………………………………………………………………………………………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… ………………………………………………………………………………………… …………………………………………………………………………………………
-A. 3. LES OBJECTIFS QUANTITATIFS :
+• L’arborescence du site 
 
-•	Quel volume de trafic visez-vous sur votre site ? 
-•	Quel volume de contact visez-vous sur votre site ? 
-•	Combien de pages et combien de services votre site va contenir ?
-……………………………………………………………………………………….… ……………………………………………………………………………………….… ……………………………………………………………………………………….… ……………………………………………………………………………………….… ……………………………………………………………………………………….… ……………………………………………………………………………………….… ……………………………………………………………………………………….… ……………………………………………………………………………………….… ……………………………………………………………………………………….… ……………………………………………………………………………………….… ……………………………………………………………………………………….…
-
-
-A. 4. PERIMETRE DU PROJET :
-
-•	Votre site doit-il être multilingue ?
-•	Quels sont les modules à garder et ceux à enlever ?
-•	Votre Site Internet aura-t-il une boutique ?
-•	Quelles sont les solutions de paiement à intégrer ? 
-•	Le site doit-il avoir une version mobile ou une application dédiée ?
-•	Quelles sont les spécificités que le prestataire doit connaître (utilisation de la géolocalisation, création de compte, création d’un multi-site etc.) ?
-……………………………………………………………………………………..…… …………………………………………………………………………………..……… ……………………………………………………………………………………..…… ……………………………………………………………………………………..…… ………………………………………………………………………………………..… ……………………………………………………………………………………..…… ……………………………………………………………………………………..…… ……………………………………………………………………………………..……
-………………………………………………………………………………………..… ………………………………………………………………………………………..… …………………………………………………………………………………………..
-B. GRAPHISME ET ERGONOMIE :
-
-B. 1. LA CHARTE GRAPHIQUE :
-
-Ajoutez avec votre cahier des charges tous les documents concernant l’identité visuelle de votre entreprise (les codes couleurs, le logo et ces variations, les règles de conception etc.).
-
-•	Précisez vos exigences concernant les couleurs et les effets de votre site ?
-•	Quelles sont les polices à utiliser ?
-•	Quels sont les éléments à conserver ?
-……………………………………………………………………………………..…… …………………………………………………………………………………..……… ……………………………………………………………………………………..…… ……………………………………………………………………………………..…… ………………………………………………………………………………………..…
-Ajoutez également à votre cahier des charges des exemples de sites avec un commentaire, les choses que vous aimez bien sur ces sites (éléments, animation, couleurs, architecture d’informations, fonctionnalités etc.) …………
-……………………………………………………………………………………..…… …………………………………………………………………………………..……… ……………………………………………………………………………………..…… ……………………………………………………………………………………..…… ………………………………………………………………………………………..… ……………………………………………………………………………………..…… ……………………………………………………………………………………..…… ……………………………………………………………………………………..……
-………………………………………………………………………………………..… ………………………………………………………………………………………..… …………………………………………………………………………………………..
-……………………………………………………………………………………..……
-……………………………………………………………………………………..……
+- • Une page " Accueil "
+- • Une page " Actualités "
+- • Une page « Sport »
+- • Une page « Culture »
+- • Une page « Evènements à venir »
 
 
-B. 2. WIREFRAME ET MAQUETTAGE :
+![Screenshot](../maquettes/accueil.png) 
 
-Ajoutez à votre cahier des charges toutes les maquettes et prototypes de vos idées concernant le résultat que vous aimeriez obtenir avec ce site Internet. 
+![Screenshot](../maquettes/actualites.png)
 
-Les maquettes contiennent :
+![Screenshot](../maquettes/categories.png)
 
-•	L’arborescence du site (les rubriques, sous rubriques, type d’URL’s etc…)
-•	L’architecture des informations concernant l’ensemble de ces pages
-……………………………………………………………………………………..…… …………………………………………………………………………………..……… ……………………………………………………………………………………..…… ……………………………………………………………………………………..…… ………………………………………………………………………………………..… ……………………………………………………………………………………..…… ……………………………………………………………………………………..…… ……………………………………………………………………………………..……
-……………………………………………………………………………………..…… …………………………………………………………………………………..……… ……………………………………………………………………………………..…… ……………………………………………………………………………………..…… ………………………………………………………………………………………..… ……………………………………………………………………………………..…… ……………………………………………………………………………………..……
-C. SPECIFICITES ET LIVRABLES :
+![Screenshot](../maquettes/a_venir.png)
 
-C. 1. LE CONTENU DE VOTRE SITE :
+## C. SPECIFICITES ET LIVRABLES :
 
-•	Lister les contenus que le prestataire doit reprendre
-•	Lister les contenus que le prestataire doit créer 
-•	Le prestataire doit-il prévoir l’achat de photo ou la création de texte ?
-•	Lister également le format des contenus proposés (Texte, Photo, Vidéo…) 
-……………………………………………………………………………………..…… …………………………………………………………………………………..……… ……………………………………………………………………………………..…… ……………………………………………………………………………………..…… ………………………………………………………………………………………..… ……………………………………………………………………………………..…… ……………………………………………………………………………………..…… ……………………………………………………………………………………..……
-C. 2. CONTRAINTES TECHNIQUES :
-
-Précisez vos attentes concernant les besoins connexes à ce projet que le prestataire devra fournir :
-
-•	Héberger votre site internet
-•	Assurer la maintenance
-•	Proposer des astreintes pour le dépannage
-•	Formation à l’utilisation du back office
-•	Intégrer des services tiers (CRM, Marketing automation, etc.)
-•	Quel sera les solutions utilisées avec votre Site Internet (Frameworks, templates, etc…)
-……………………………………………………………………………………..…… …………………………………………………………………………………..……… ……………………………………………………………………………………..…… ……………………………………………………………………………………..…… ………………………………………………………………………………………..… ……………………………………………………………………………………..…… ……………………………………………………………………………………..……
+## C. 1. CONTRAINTES TECHNIQUES :
 
 
-C. 3. LES LIVRABLES :
+•	Nous aurons besoin d’un hébergement pour votre site internet
+<p>Les solutions utilisées seront :</p>
 
-Ecrivez les informations que vous souhaitez voir apparaitre dans le devis de vos prestataires.
-
-•	Présentation de la société 
-•	Découpage des taches pour un tarif homme / jour 
-•	Calendrier de réalisation
-……………………………………………………………………………………..…… …………………………………………………………………………………..……… ……………………………………………………………………………………..…… ……………………………………………………………………………………..…… ………………………………………………………………………………………..… ……………………………………………………………………………………..…… ……………………………………………………………………………………..…… ……………………………………………………………………………………..……
-Ecrivez ici, l’ensemble des prestations attendues dans le devis de votre prestataire.
-
-Vous pouvez reprendre les grandes étapes de ce cahier des charges, exemple :
-
-•	Refondre le site existant pour l’intégrer dans un nouveau site
-•	Accélérer le site au maximum 
-•	Améliorer le référencement du site 
-•	Ajouter les pages (A / B / C) 
-•	Ajouter les fonctionnalités (E / F / G) 
-•	Assurer l’hébergement du site 
-•	Former nos équipes à l’utilisation
-……………………………………………………………………………………..…… …………………………………………………………………………………..……… ……………………………………………………………………………………..…… ……………………………………………………………………………………..…… ………………………………………………………………………………………..…
+-    • Le CMS Wordpress
+-    • Une Template sur mesure. 
+-    • Des plugins de sécurité.
+-    • Des outils de maquetage. 
+-    • Des outils de prototypage. 
 
 
-C. 4. LE PLANNING :
+## C. 2. LE CONTENU DE VOTRE SITE WORDPRESS :
 
-Ajoutez un agenda des dates souhaitées pour la validation des différentes étapes :
+### Pour répondre à la demande du client, plusieurs tâches doivent être réaliser :
+<p>
+Nous devrons Créer un accès rapide aux différents évènements à venir sur les pages du site. 3 pages 
+</p>
 
-•	Date de la création et validation des maquettes 
-•	Date de la création et validation des contenus 
-•	Date de la création et validation du site 
-•	Dates des tests 
-•	Date de mise en ligne
-……………………………………………………………………………………..…… …………………………………………………………………………………..……… ……………………………………………………………………………………..…… ……………………………………………………………………………………..…… ………………………………………………………………………………………..… ……………………………………………………………………………………..……
+- La page d'accueil, qui contiendra les articles du site ajoutées récemment.
+- Une partie "événement à venir" sera accessible depuis un bouton dans le menu.
+- Une page « Culture », qui contiendra tout les articles en corélation avec la catégorie " Culture ".
+- Une page « Sport », qui contiendra tout les articles en corélation avec la catégorie " Sport ".
+
+<p>
+Créer la taxonomie du site. Elle devra permettre de naviguer sur les contenus de manière intuitive par catégories ou à l’aide de tags.
+</p>
+
+- Création des catégories pour le site : Culture et Sport.
+<p>
+ Le site devra remplir le rôle premier du site qui est d’informer et de présenter les informations de manière chronologique pour prioriser la une des informations du jour.
+</p>
+
+## C.	3. LE PLANNING :
+
+<p>Nous disposons de 3 jours pour créer le thème sur mesure.</p>
+
+
+
+
