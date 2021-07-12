@@ -1,1 +1,4 @@
-# ecf-4
+# Demo du théme
+
+
+http://kendrick.ssh.cfa.nc/wordpress/ 
